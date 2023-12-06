@@ -14,4 +14,4 @@ const subItem = () => {
     }
 }
 
-export {addItem, subItem}
+export { addItem, subItem }
