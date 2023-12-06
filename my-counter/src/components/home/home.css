@@ -1,0 +1,14 @@
+.btn-add {
+    background-color: green;
+    color: white;
+}
+
+.btn-sub {
+    background-color: red;
+    color: white;
+}
+
+.num-padding {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
